@@ -16,6 +16,7 @@ public class Proyecto3 {
         suma=num1+num2;
         promedio=suma/2;
         //Salida
+        System.out.println("NOMBRE");
         System.out.println("Suma" +suma);
         System.out.println("Promedio" +promedio);
     }
